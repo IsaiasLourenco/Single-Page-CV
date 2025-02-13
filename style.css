@@ -1,0 +1,20 @@
+
+
+h1{
+    font-family: roboto;
+}
+h2{
+    font-family: roboto;
+}
+
+h3{
+    font-family: roboto;
+    color: green;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: black;
+    margin: 0;
+}
