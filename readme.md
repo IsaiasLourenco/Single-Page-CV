@@ -9,7 +9,8 @@ In this project, you are required to create a single-page CV (Curriculum Vitae) 
 ## Tecnologias utilizadas
 
 - HTML;
-- CSS.
+- CSS;
+- FontAwesome for Linkedin and GitHub Icons
 
 ## Initialization
 
@@ -19,4 +20,4 @@ Collaborators
 
 - Isaias Lourenço. 'https://github.com/IsaiasLourenco/'.
 
-[<img src="./gifRest.gif" alt="Delivering">]
+[<img src="./assets/img/gifPort.gif" alt="Delivering">]
