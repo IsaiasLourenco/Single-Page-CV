@@ -1,6 +1,6 @@
 # Single-Page CV Projet from FrontEnd Developer site (https://roadmap.sh/projects/single-page-cv)
 
-The goal of this project is to teach you how to create a structured, single-page resume using just HTML. I needed to focus on presenting my education, skills and professional history in a clear and semantic way. The style will be covered in a later project.
+The goal of this project is to teach you how to create a structured, single-page resume using just HTML. I needed to focus on presenting my education, skills and professional history in a clear and semantic way. The style will be covered in a later project
 
 ## Functionalities
 
@@ -10,6 +10,7 @@ In this project, you are required to create a single-page CV (Curriculum Vitae) 
 
 - HTML;
 - CSS;
+*** - JavaScript → to send the CV choosed to print;
 - FontAwesome for Linkedin and GitHub Icons
 
 ## Initialization

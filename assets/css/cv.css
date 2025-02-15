@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+.box {
+    width: 90%; 
+    max-width: 800px; 
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: black;
+    margin: 0;
+}
+
+h4{
+    font-family: Montserrat;
+}
+
+h5{
+    font-family: Montserrat;
+    color: blue;
+    font-size: 10px;
+}
+h6{
+    font-family: Monstserrat;
+    color: green;
+}
+
+p{
+    font-family: Montserrat;
+    font-size: 10px;
+}
+
+li{
+    font-size: 10px;
+}
+
+a{
+    font-size: 10px;
+}
+
+/* Esconder os botões ao imprimir */
+@media print {
+    .no-print {
+        display: none;
+    }
+}
+
+/* Estilização dos botões */
+.actions {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.actions button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.actions button:hover {
+    background-color: #0056b3;
+}
